@@ -1,0 +1,4 @@
+D:\Project\HRMS\HRMS.Entity\bin\Release\HRMS.Entity.dll
+D:\Project\HRMS\HRMS.Entity\bin\Release\HRMS.Entity.pdb
+D:\Project\HRMS\HRMS.Entity\obj\Release\HRMS.Entity.dll
+D:\Project\HRMS\HRMS.Entity\obj\Release\HRMS.Entity.pdb
