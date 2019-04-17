@@ -1,0 +1,5 @@
+D:\Project\HRMS\HRMS.Entity\bin\Debug\HRMS.Entity.dll
+D:\Project\HRMS\HRMS.Entity\bin\Debug\HRMS.Entity.pdb
+D:\Project\HRMS\HRMS.Entity\obj\Debug\HRMS.Entity.csprojResolveAssemblyReference.cache
+D:\Project\HRMS\HRMS.Entity\obj\Debug\HRMS.Entity.dll
+D:\Project\HRMS\HRMS.Entity\obj\Debug\HRMS.Entity.pdb
