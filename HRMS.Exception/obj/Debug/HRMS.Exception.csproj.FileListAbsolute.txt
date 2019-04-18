@@ -1,0 +1,4 @@
+D:\Project\HRMS\HRMS.Exception\bin\Debug\HRMS.Exception.pdb
+D:\Project\HRMS\HRMS.Exception\obj\Debug\HRMS.Exception.dll
+D:\Project\HRMS\HRMS.Exception\obj\Debug\HRMS.Exception.pdb
+D:\Project\HRMS\HRMS.Exception\bin\Debug\HRMS.Exception.dll
