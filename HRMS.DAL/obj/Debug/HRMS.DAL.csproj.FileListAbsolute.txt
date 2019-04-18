@@ -1,0 +1,9 @@
+D:\Project\HRMS\HRMS.DAL\bin\Debug\HRMS.DAL.dll
+D:\Project\HRMS\HRMS.DAL\bin\Debug\HRMS.DAL.pdb
+D:\Project\HRMS\HRMS.DAL\bin\Debug\HRMS.Entity.dll
+D:\Project\HRMS\HRMS.DAL\bin\Debug\HRMS.Entity.pdb
+D:\Project\HRMS\HRMS.DAL\obj\Debug\HRMS.DAL.csprojResolveAssemblyReference.cache
+D:\Project\HRMS\HRMS.DAL\obj\Debug\HRMS.DAL.dll
+D:\Project\HRMS\HRMS.DAL\obj\Debug\HRMS.DAL.pdb
+D:\Project\HRMS\HRMS.DAL\bin\Debug\HRMS.Exception.dll
+D:\Project\HRMS\HRMS.DAL\bin\Debug\HRMS.Exception.pdb
