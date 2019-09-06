@@ -250,30 +250,3 @@ BEGIN
 		Speciality=@Speciality
 END
 GO
-
-/*
-#include <bits/stdc++.h>
-using namespace std;
-#define ll long long int
-int main() {
-	ios_base::sync_with_stdio(false);
-	cin.tie(NULL);
-	int t;
-	cin>>t;
-	while(t--)
-	{
-		ll n;
-		cin>>n;
-		int a=0;
-		int b=1;
-		int temp;
-		for(int i=2;i<=(n/2);i++)
-		{
-			temp=(a+b)%10;
-			a=b;
-			b=temp;
-		}
-		cout<<b<<endl;
-	}
-	return 0;
-}*/
