@@ -250,3 +250,36 @@ BEGIN
 		Speciality=@Speciality
 END
 GO
+/*
+#include <bits/stdc++.h>
+using namespace std;
+ 
+int main() {
+	// your code goes here
+	int t;
+	cin>>t;
+	while(t--)
+	{
+		int n,k;
+		cin>>n>>k;
+		vector<int> arr(n);
+		for(int i=0;i<n;i++)
+		cin>>arr[i];
+ 
+		sort(arr.begin(),arr.end());
+ 
+		int i=0,j=k-1,a=0;
+		while(1)
+		{
+			 j++;
+			 if(j == n)
+			 break;
+			if(arr[0] == arr[j])
+			a++;
+			else
+			break;
+		}
+    cout<<a+1<<"\n";
+	}
+	return 0;
+}*/
